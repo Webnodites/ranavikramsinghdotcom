@@ -2853,7 +2853,8 @@ a.icon-circle:hover:not(.icon-white):not(#messenger-toggle) {
 
 ol,
 ul {
-	margin-bottom: 25px
+	margin-bottom: 25px;
+	padding:5px;
 }
 
 ul.list-check li {
@@ -3725,3 +3726,38 @@ html.locked-scrolling body {
 		height: 250vh
 	}
 }
+
+
+#social-media{
+    list-style: none;
+    margin-left:65%;
+    margin-top:-8% ;
+    display: inline-block;
+}
+ul { 
+    padding: 10px
+ }
+ li {
+    display: inline-block;
+    width: auto;
+   padding:7px;
+ }
+
+ @media (max-width: 767px) {
+
+	#social-media{
+		list-style: none;
+		margin-left:0%;
+		margin-top:-8% ;
+		display: inline-block;
+	}
+	ul { 
+		padding: 10px
+	 }
+	 li {
+		display: inline-block;
+		width: auto;
+	   padding:7px;
+	 }
+	
+	}
