@@ -3755,5 +3755,14 @@ html.locked-scrolling body {
 		width: auto;
 	   padding:7px;
 	 }
-	
+
 	}
+
+	.button-fb:hover{
+		color: #000;
+	}
+
+	.web:hover{
+		color: #000;
+	}
+
