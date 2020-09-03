@@ -3734,13 +3734,10 @@ html.locked-scrolling body {
     margin-top:-8% ;
     display: inline-block;
 }
-ul { 
-    padding: 10px
- }
+
  li {
-    display: inline-block;
+
     width: auto;
-   padding:7px;
  }
 
  @media (max-width: 767px) {
