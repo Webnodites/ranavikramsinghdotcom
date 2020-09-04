@@ -44,7 +44,9 @@ section .pixelsby{
     margin-top:15%;
 }
 
-
+ .vert:hover{
+    color:black;
+}
 @media (max-width: 767px) {
 
 
