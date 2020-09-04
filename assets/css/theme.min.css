@@ -1855,7 +1855,7 @@ h6 {
 
 .text-light,
 p.lead {
-	font-weight: 300
+	font-weight: 500;
 }
 
 h1 {
@@ -1898,7 +1898,8 @@ h6 {
 
 p.lead {
 	font-size: 16px;
-	margin-bottom: 25px
+	margin-bottom: 25px;
+	font-weight: 500;
 }
 
 blockquote {
