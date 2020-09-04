@@ -1234,7 +1234,7 @@ img {
 
 .timeline {
 	border-left: 1px solid #eaeaea;
-	padding: 30px 0
+	padding: 0px 0
 }
 
 .dark .timeline {
@@ -1899,7 +1899,7 @@ h6 {
 p.lead {
 	font-size: 16px;
 	margin-bottom: 25px;
-	font-weight: 500;
+	font-weight: 300;
 }
 
 blockquote {

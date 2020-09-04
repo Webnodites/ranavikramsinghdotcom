@@ -40,6 +40,11 @@ section .pixelsby{
 .section .padding-v-60 .about{
     padding-bottom: -15%;
 }
+.col-md-6 .col-sm-6 .col-xs-12 .strtp{
+    margin-top:15%;
+}
+
+
 @media (max-width: 767px) {
 
 
