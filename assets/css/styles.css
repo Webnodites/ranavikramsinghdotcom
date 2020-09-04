@@ -27,7 +27,16 @@
 .copyright{
     margin-left:23%;
 }
+.linkedin:hover{
+    color:#CAA669;
+}
+.prdts{
+    margin-left:45%;
+}
 
+.section .padding-v-60 .about{
+    padding-bottom: -15%;
+}
 @media (max-width: 767px) {
 
 
@@ -40,6 +49,10 @@
 
     .copyright{
         margin-left:5%;
+    }
+
+    .prdts{
+        margin-left:10%;
     }
 	}
 
