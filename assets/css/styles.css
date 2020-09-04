@@ -14,9 +14,10 @@
 
 
 .button-fb{
-    margin-left: 25%;
+    margin-left: 0%;
     border-radius: 10px;
-    font-size: 40px;
+    font-size: 30px;
+
 
 }
 .button-fb:hover{
@@ -26,6 +27,7 @@
 
 .copyright{
     margin-left:23%;
+    margin-top:5%;
 }
 .linkedin:hover{
     color:#CAA669;
@@ -43,7 +45,9 @@ section .pixelsby{
 .col-md-6 .col-sm-6 .col-xs-12 .strtp{
     margin-top:15%;
 }
-
+#foot{
+    width: 900px;
+}
  .vert:hover{
     color:#CAA669;
 }
@@ -51,9 +55,9 @@ section .pixelsby{
 
 
     .button-fb{
-        margin-left: 12%;
+        margin-left: 0%;
         border-radius: 10px;
-        font-size: 20px;
+        font-size: 25px;
     
     }
 
@@ -63,6 +67,9 @@ section .pixelsby{
 
     .prdts{
         margin-left:10%;
+    }
+    #foot{
+        width: 352px;
     }
 	}
 

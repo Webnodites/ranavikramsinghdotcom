@@ -3582,7 +3582,8 @@ html.locked-scrolling body {
 		width: 230px
 	}
 	.header-vertical .section {
-		padding-left: 280px
+		padding-left: 280px;
+		padding-bottom: 0px;
 	}
 }
 
