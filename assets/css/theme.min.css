@@ -3754,8 +3754,9 @@ html.locked-scrolling body {
 	 }
 	 li {
 		display: inline-block;
-		width: auto;
-	   padding:7px;
+		width: auto;	
+	   padding-right:7px;
+	   padding-left:7px;
 	 }
 
 	}
