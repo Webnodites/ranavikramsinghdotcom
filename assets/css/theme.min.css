@@ -3758,7 +3758,10 @@ html.locked-scrolling body {
 	   padding-right:7px;
 	   padding-left:7px;
 	 }
-
+	 .small,
+	 small {
+	   margin-top: 10%;
+	 }
 	}
 
 	.button-fb:hover{
