@@ -24,6 +24,11 @@
     color:black;
 }
 
+.swayam:hover{
+  opacity: 0.7;
+  color:black;
+}
+
 
 .copyright{
     margin-left:23%;
